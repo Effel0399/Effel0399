@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m a junior developer currently learning front-end stuff and JavaScript.
+- 🔭 Discovering things with Golang.
 
 <!--
-**FNH99/FNH99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Effel0399/Effel0399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
